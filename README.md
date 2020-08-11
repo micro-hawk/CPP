@@ -3,6 +3,9 @@
 I will add some basics programs of C++ Daily :)
 
 * ![Template Function](https://github.com/micro-hawk/CPP/blob/master/Template.cpp)
+* ![Class Template](https://github.com/micro-hawk/CPP/blob/master/ClassTemplate.cpp)
+* ![Multiplication Table](https://github.com/micro-hawk/CPP/blob/master/MultiplicationTable.cpp)
+* ![Min Max Element in Array](https://github.com/micro-hawk/CPP/blob/master/MinMaxElement.cpp)
 
 For going to home page ![click here](https://github.com/micro-hawk) 👈
 ### Connect with me:
