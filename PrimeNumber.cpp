@@ -1,4 +1,4 @@
-// MicroHawk 2020
+// MicroHawk(C) 2020
 #include<iostream>
 using namespace std;
 
