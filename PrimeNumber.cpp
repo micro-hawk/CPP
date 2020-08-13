@@ -7,7 +7,7 @@ int main()
     cout << "Enter your number: \n";
     cin >> n;
     int isPrime = 1;
-    for (int i = 0; i*i < n; i++)
+    for (int i = 2; i*i < n; i++)
     {
         if (n%i==0)
         {   
