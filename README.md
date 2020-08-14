@@ -6,6 +6,7 @@ I will add some basics programs of C++ Daily :)
 * ![Class Template](https://github.com/micro-hawk/CPP/blob/master/ClassTemplate.cpp)
 * ![Multiplication Table](https://github.com/micro-hawk/CPP/blob/master/MultiplicationTable.cpp)
 * ![Min Max Element in Array](https://github.com/micro-hawk/CPP/blob/master/MinMaxElement.cpp)
+* ![Prime Number](https://github.com/micro-hawk/CPP/blob/master/PrimeNumber.cpp)
 
 For going to home page ![click here](https://github.com/micro-hawk) 👈
 ### Connect with me:
