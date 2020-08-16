@@ -10,6 +10,7 @@
 //    c. front()
 //    d. back()
 //    e. data() // gives access to the underlying array
+//    f. fill() // fill all blocks with given argument
 
 #include<iostream>
 #include<array>
@@ -29,6 +30,15 @@ int main()
 
     cout << arr.at(4) << endl;
     cout << arr.front() << " " << arr.back() << endl;  // for first and last element in array.
+    // For Printing this array using for loop
+    for(int i=0; i<5; i++){
+        cout << arr.at(i) << " ";
+    }
+    cout << endl;
+
+    // Using fill() STL Array
+    arr.fill(100);
+
     // For Printing this array using for loop
     for(int i=0; i<5; i++){
         cout << arr.at(i) << " ";
