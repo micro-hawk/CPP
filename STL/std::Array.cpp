@@ -27,5 +27,11 @@ int main()
     // int n; cin >> n;
     // array <int,n> new;               // Can't express in this way.
 
+    cout << arr.at(4) << endl;
+    // For Printing this array using for loop
+    for(int i=0; i<5; i++){
+        cout << arr.at(i) << " ";
+    }
+
     return 0;
 }
