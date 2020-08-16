@@ -18,7 +18,7 @@ using namespace std;
 int main()
 {
     array <int, 5> arr;
-    arr = {1,2,3,4,5};
+    arr = {34,45,23,11,23};
 
     //Initialization
     array<int,5> arr_01 = {1,2,3,4,5};  // Initializer List Array
@@ -28,6 +28,7 @@ int main()
     // array <int,n> new;               // Can't express in this way.
 
     cout << arr.at(4) << endl;
+    cout << arr.front() << " " << arr.back() << endl;  // for first and last element in array.
     // For Printing this array using for loop
     for(int i=0; i<5; i++){
         cout << arr.at(i) << " ";
